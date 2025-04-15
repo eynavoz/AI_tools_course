@@ -1,0 +1,91 @@
+1:
+gpt-35-16k, 0: no-split
+LLM response: {
+Issue Count: 1
+Issue 1: Interface
+Detail 1: The misalignment of buttons on the dashboard after resizing the window indicates an issue with the interface design.
+}
+gpt-4o-mini, 0: no-split
+LLM response: {
+    Issue Count: 1
+    Issue 1: Interface
+    Detail 1: The misalignment of buttons on the dashboard is a visual issue related to the user interface.
+}
+gpt-4o-mini, 0.9: no-split
+LLM response: {
+    Issue Count: 1
+    Issue 1: Interface
+    Detail 1: The problem described involves the misalignment of buttons, which is a visual issue related to the user interface.
+}
+
+2:
+gpt-35-16k, 0: split
+LLM response: {
+Issue Count: 2
+Issue 1: Data
+Detail 1: User roles are not saving correctly
+Issue 2: Security and Access Control
+Detail 2: Some users are getting access to admin features
+}
+gpt-4o-mini, 0: split
+LLM response: {
+    Issue Count: 2
+    Issue 1: Security and Access Control
+    Detail 1: User roles are not saving correctly, leading to unauthorized access to admin features.
+    Issue 2: Configuration
+    Detail 2: The incorrect saving of user roles indicates a configuration issue in the system.
+}
+gpt-4o-mini, 0.9: split
+LLM response: {
+    Issue Count: 2
+    Issue 1: Security and Access Control
+    Detail 1: Users are gaining access to features they shouldn't, indicating a problem with user role permissions.
+    Issue 2: Logic Defect
+    Detail 2: The fact that user roles are not saving correctly suggests a failure in the logic to handle role assignments.
+}
+
+3:
+gpt-35-16k, 0: no-split
+LLM response: {
+Issue Count: 1
+Issue 1: Logic Defect
+Detail 1: The issue described in the ticket is a logic defect. Clicking 'Submit' twice causing duplicate records to be created indicates a problem with the logic of the software, where it is not properly checking for existing records before creating new ones.
+}
+gpt-4o-mini, 0: no-split
+LLM response: {
+    Issue Count: 1
+    Issue 1: Logic Defect
+    Detail 1: The issue of duplicate records being created due to clicking 'Submit' twice indicates a flaw in the logic that handles form submissions.
+}
+gpt-4o-mini, 0.9: no-split
+LLM response: {
+    Issue Count: 1
+    Issue 1: Logic Defect
+    Detail 1: The issue of duplicate records being created due to clicking 'Submit' twice indicates a problem in the application's logic handling submissions.
+}
+
+4:
+gpt-35-16k, 0: split
+LLM response: {
+Issue Count: 2
+Issue 1: Logic Defect
+Detail 1: Some reports show incorrect calculations
+Issue 2: Interface
+Detail 2: The interface layout breaks when resizing the window
+}
+gpt-4o-mini, 0: split
+LLM response: {
+    Issue Count: 2
+    Issue 1: Logic Defect
+    Detail 1: The ticket mentions incorrect calculations, indicating a problem with the logic used in the software.
+    Issue 2: Interface
+    Detail 2: The ticket also describes a layout issue when resizing the window, which pertains to the interface design.
+}
+gpt-4o-mini, 0.9: split
+LLM response: {
+    Issue Count: 2
+    Issue 1: Logic Defect
+    Detail 1: The ticket mentions incorrect calculations, which indicates a problem with the logic of the software.
+    Issue 2: Interface
+    Detail 2: The ticket states that the interface layout breaks when resizing the window, indicating a separate issue with the user interface.
+}
