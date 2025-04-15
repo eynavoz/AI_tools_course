@@ -1,0 +1,4 @@
+1: Users without admin privileges can access restricted settings.
+2: Email notifications are not being sent after changing SMTP settings.
+3: The app crashes when uploading large files.
+4: Some users are missing transaction history from last month.
